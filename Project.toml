@@ -1,6 +1,6 @@
 name = "pandoc_jll"
 uuid = "c5432543-76ad-5c9d-82bf-db097047a5e2"
-version = "2.9.2+1"
+version = "2.9.2+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
