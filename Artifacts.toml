@@ -16,6 +16,15 @@ os = "macos"
     sha256 = "50db927b65175cbbd7fb8d1d03ff0fc2f28455820f781f46aa87255f1df2392c"
     url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v2.14.0+0/pandoc.v2.14.0.x86_64-apple-darwin.tar.gz"
 [[pandoc]]
+arch = "aarch64"
+git-tree-sha1 = "c139fc60e2995c787d6c53e6113f46a745b2a626"
+os = "macos"
+
+    [[pandoc.download]]
+    sha256 = "50db927b65175cbbd7fb8d1d03ff0fc2f28455820f781f46aa87255f1df2392c"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_jll.jl/releases/download/pandoc-v2.14.0+0/pandoc.v2.14.0.x86_64-apple-darwin.tar.gz"
+
+[[pandoc]]
 arch = "x86_64"
 git-tree-sha1 = "4315774b120ac2cf172a58bc392626b12521b09b"
 libc = "glibc"

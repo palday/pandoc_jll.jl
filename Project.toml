@@ -1,12 +1,13 @@
 name = "pandoc_jll"
 uuid = "c5432543-76ad-5c9d-82bf-db097047a5e2"
-version = "2.14.0+0"
+version = "2.14.0+0-rosetta"
 
 [deps]
-JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
-Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]
 JLLWrappers = "1.2.0"
